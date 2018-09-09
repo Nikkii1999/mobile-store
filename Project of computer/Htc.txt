@@ -1,0 +1,7 @@
+1#Htc Bolt#50000
+2#Htc Desire 820#12349
+3#Htc Desire 626#10495
+4# Htc Desire 830#17240
+5#Htc Desire One M9#54900
+6#Htc One X9#21815
+7#Htc Desire 601#19999

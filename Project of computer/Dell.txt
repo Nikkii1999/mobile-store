@@ -1,0 +1,7 @@
+1#Venue 8 Pro 5855#10499
+2#Venue 11 Pro 7000#49890
+3#Venue 7 (2014)# 9400
+4#Venue 8 Pro#9499
+5#Venue 7 Pro#6550
+6#Venue 8#10379
+7#Venue 10 Pro#12299
